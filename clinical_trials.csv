@@ -1,0 +1,151 @@
+trial_id,disease,drug,phase,age_min,age_max,location,hospital
+NCT20000001,diabetes,Tirzepatide,Phase III,18,75,Mumbai,Tata Memorial Hospital
+NCT20000002,diabetes,Semaglutide,Phase III,40,75,Delhi,AIIMS Delhi
+NCT20000003,diabetes,Empagliflozin,Phase II,35,70,Pune,Ruby Hall Clinic
+NCT20000004,diabetes,Dapagliflozin,Phase III,30,70,Bangalore,Manipal Hospital
+NCT20000005,diabetes,Metformin XR,Phase IV,18,65,Hyderabad,Apollo Hospital
+NCT20000006,asthma,RespiraX,Phase II,18,60,Bangalore,Manipal Hospital
+NCT20000007,asthma,Fluticasone,Phase III,18,65,Mumbai,KEM Hospital
+NCT20000008,asthma,Budesonide,Phase III,20,60,Delhi,Fortis Hospital
+NCT20000009,asthma,Salmeterol,Phase II,18,55,Pune,Sahyadri Hospital
+NCT20000010,asthma,Montelukast,Phase IV,18,60,Chennai,Apollo Hospital
+NCT20000011,cancer,OncoNova,Phase II,30,65,Delhi,Rajiv Gandhi Cancer Institute
+NCT20000012,cancer,Pembrolizumab,Phase III,25,70,Mumbai,Tata Memorial Hospital
+NCT20000013,cancer,Nivolumab,Phase III,35,75,Bangalore,Manipal Hospital
+NCT20000014,cancer,Durvalumab,Phase II,30,70,Hyderabad,Apollo Hospital
+NCT20000015,cancer,Bevacizumab,Phase III,40,75,Delhi,AIIMS Delhi
+NCT20000016,hypertension,CardioSafe,Phase III,35,70,Mumbai,KEM Hospital
+NCT20000017,hypertension,Amlodipine XR,Phase IV,40,75,Pune,Ruby Hall Clinic
+NCT20000018,hypertension,Losartan,Phase III,35,70,Delhi,Fortis Hospital
+NCT20000019,hypertension,Valsartan,Phase II,40,70,Bangalore,Manipal Hospital
+NCT20000020,hypertension,Telmisartan,Phase III,45,75,Hyderabad,Apollo Hospital
+NCT20000021,alzheimer,NeuroCure,Phase II,55,80,Bangalore,NIMHANS
+NCT20000022,alzheimer,Donepezil XR,Phase III,60,85,Delhi,AIIMS Delhi
+NCT20000023,alzheimer,Memantine,Phase III,55,80,Mumbai,Tata Memorial Hospital
+NCT20000024,alzheimer,Lecanemab,Phase II,60,85,Pune,Deenanath Hospital
+NCT20000025,alzheimer,Aducanumab,Phase III,55,80,Chennai,Apollo Hospital
+NCT20000026,arthritis,ArthriRelief,Phase I,40,75,Pune,Jehangir Hospital
+NCT20000027,arthritis,Methotrexate XR,Phase III,30,70,Delhi,AIIMS Delhi
+NCT20000028,arthritis,Etanercept,Phase III,35,70,Mumbai,KEM Hospital
+NCT20000029,arthritis,Infliximab,Phase II,40,75,Bangalore,Manipal Hospital
+NCT20000030,arthritis,Adalimumab,Phase III,30,70,Hyderabad,Apollo Hospital
+NCT20000031,obesity,SlimReduce,Phase II,25,60,Mumbai,Apollo Hospital
+NCT20000032,obesity,Orlistat XR,Phase III,25,60,Delhi,Fortis Hospital
+NCT20000033,obesity,Semaglutide Weight,Phase III,30,65,Bangalore,Manipal Hospital
+NCT20000034,obesity,Tirzepatide Weight,Phase II,25,60,Pune,Ruby Hall Clinic
+NCT20000035,obesity,Liraglutide,Phase III,30,65,Hyderabad,Apollo Hospital
+NCT20000036,depression,Sertraline XR,Phase III,18,60,Mumbai,KEM Hospital
+NCT20000037,depression,Escitalopram,Phase III,18,65,Delhi,AIIMS Delhi
+NCT20000038,depression,Bupropion,Phase II,20,65,Pune,Sahyadri Hospital
+NCT20000039,depression,Fluoxetine,Phase IV,18,60,Bangalore,Manipal Hospital
+NCT20000040,depression,Duloxetine,Phase III,25,65,Hyderabad,Apollo Hospital
+NCT20000041,migraine,Topiramate,Phase III,18,60,Mumbai,KEM Hospital
+NCT20000042,migraine,Sumatriptan XR,Phase III,18,55,Delhi,Fortis Hospital
+NCT20000043,migraine,Erenumab,Phase II,20,60,Bangalore,Manipal Hospital
+NCT20000044,migraine,Fremanezumab,Phase III,18,60,Hyderabad,Apollo Hospital
+NCT20000045,migraine,Galcanezumab,Phase II,18,60,Pune,Ruby Hall Clinic
+NCT20000046,covid19,Paxlovid,Phase III,18,65,Delhi,AIIMS Delhi
+NCT20000047,covid19,Remdesivir,Phase III,18,70,Mumbai,Tata Memorial Hospital
+NCT20000048,covid19,Molnupiravir,Phase II,18,65,Bangalore,Manipal Hospital
+NCT20000049,covid19,Azvudine,Phase II,18,60,Pune,Deenanath Hospital
+NCT20000050,covid19,Baricitinib,Phase III,18,70,Hyderabad,Apollo Hospital
+NCT20000051,parkinson,Levodopa XR,Phase III,50,80,Mumbai,KEM Hospital
+NCT20000052,parkinson,Pramipexole,Phase II,50,80,Delhi,AIIMS Delhi
+NCT20000053,parkinson,Ropinirole,Phase III,50,80,Bangalore,Manipal Hospital
+NCT20000054,parkinson,Amantadine,Phase II,55,85,Pune,Deenanath Hospital
+NCT20000055,parkinson,Selegiline,Phase III,55,85,Hyderabad,Apollo Hospital
+NCT20000056,epilepsy,Levetiracetam,Phase III,18,60,Mumbai,KEM Hospital
+NCT20000057,epilepsy,Valproate XR,Phase III,18,60,Delhi,AIIMS Delhi
+NCT20000058,epilepsy,Lamotrigine,Phase II,18,60,Pune,Ruby Hall Clinic
+NCT20000059,epilepsy,Topiramate XR,Phase III,18,60,Bangalore,Manipal Hospital
+NCT20000060,epilepsy,Clobazam,Phase II,18,60,Hyderabad,Apollo Hospital
+NCT20000061,heart failure,Sacubitril Valsartan,Phase III,40,80,Mumbai,Kokilaben Hospital
+NCT20000062,heart failure,Carvedilol XR,Phase III,40,75,Delhi,AIIMS Delhi
+NCT20000063,heart failure,Dapagliflozin HF,Phase II,45,80,Pune,Ruby Hall Clinic
+NCT20000064,heart failure,Empagliflozin HF,Phase III,40,75,Bangalore,Manipal Hospital
+NCT20000065,heart failure,Spironolactone XR,Phase II,50,80,Hyderabad,Apollo Hospital
+NCT20000066,stroke,Clopidogrel XR,Phase III,45,80,Mumbai,KEM Hospital
+NCT20000067,stroke,Aspirin XR,Phase IV,40,75,Delhi,Fortis Hospital
+NCT20000068,stroke,Ticagrelor,Phase III,45,80,Bangalore,Manipal Hospital
+NCT20000069,stroke,Edoxaban,Phase II,50,80,Pune,Sahyadri Hospital
+NCT20000070,stroke,Rivaroxaban,Phase III,45,80,Hyderabad,Apollo Hospital
+NCT20000071,tuberculosis,Bedaquiline,Phase III,18,65,Delhi,AIIMS Delhi
+NCT20000072,tuberculosis,Delamanid,Phase II,18,65,Mumbai,Tata Memorial Hospital
+NCT20000073,tuberculosis,Pretomanid,Phase II,18,60,Pune,Ruby Hall Clinic
+NCT20000074,tuberculosis,Isoniazid XR,Phase III,18,60,Bangalore,Manipal Hospital
+NCT20000075,tuberculosis,Rifapentine,Phase III,18,60,Hyderabad,Apollo Hospital
+NCT20000076,psoriasis,Ustekinumab,Phase III,20,65,Mumbai,KEM Hospital
+NCT20000077,psoriasis,Secukinumab,Phase III,20,65,Delhi,AIIMS Delhi
+NCT20000078,psoriasis,Adalimumab Derm,Phase II,20,65,Pune,Sahyadri Hospital
+NCT20000079,psoriasis,Guselkumab,Phase III,20,65,Bangalore,Manipal Hospital
+NCT20000080,psoriasis,Etanercept Derm,Phase II,20,65,Hyderabad,Apollo Hospital
+NCT20000081,anemia,Iron Sucrose XR,Phase III,18,65,Mumbai,Kokilaben Hospital
+NCT20000082,anemia,Ferric Carboxymaltose,Phase III,18,65,Delhi,AIIMS Delhi
+NCT20000083,anemia,Epoetin Alfa,Phase II,18,65,Pune,Ruby Hall Clinic
+NCT20000084,anemia,Darbepoetin Alfa,Phase III,18,65,Bangalore,Manipal Hospital
+NCT20000085,anemia,Iron Dextran XR,Phase II,18,65,Hyderabad,Apollo Hospital
+NCT20000086,diabetes,Glipizide XR,Phase III,30,70,Mumbai,KEM Hospital
+NCT20000087,diabetes,Gliclazide MR,Phase III,35,70,Delhi,AIIMS Delhi
+NCT20000088,diabetes,Sitagliptin,Phase III,30,70,Bangalore,Manipal Hospital
+NCT20000089,diabetes,Linagliptin,Phase II,30,65,Pune,Ruby Hall Clinic
+NCT20000090,diabetes,Canagliflozin,Phase III,35,75,Hyderabad,Apollo Hospital
+NCT20000091,asthma,Formoterol XR,Phase III,18,60,Mumbai,KEM Hospital
+NCT20000092,asthma,Omalizumab,Phase II,18,60,Delhi,Fortis Hospital
+NCT20000093,asthma,Mepolizumab,Phase III,20,65,Bangalore,Manipal Hospital
+NCT20000094,asthma,Tezepelumab,Phase II,18,60,Pune,Sahyadri Hospital
+NCT20000095,asthma,Ipratropium XR,Phase III,18,60,Hyderabad,Apollo Hospital
+NCT20000096,cancer,Trastuzumab,Phase III,25,70,Mumbai,Tata Memorial Hospital
+NCT20000097,cancer,Imatinib,Phase III,30,75,Delhi,Rajiv Gandhi Cancer Institute
+NCT20000098,cancer,Sorafenib,Phase II,35,70,Bangalore,Manipal Hospital
+NCT20000099,cancer,Osimertinib,Phase III,30,75,Hyderabad,Apollo Hospital
+NCT20000100,cancer,Atezolizumab,Phase II,35,70,Pune,Deenanath Hospital
+NCT20000101,hypertension,Nifedipine XR,Phase III,40,75,Mumbai,KEM Hospital
+NCT20000102,hypertension,Enalapril,Phase III,35,70,Delhi,Fortis Hospital
+NCT20000103,hypertension,Lisinopril,Phase II,35,70,Bangalore,Manipal Hospital
+NCT20000104,hypertension,Ramipril,Phase III,40,75,Pune,Ruby Hall Clinic
+NCT20000105,hypertension,Hydrochlorothiazide XR,Phase III,40,70,Hyderabad,Apollo Hospital
+NCT20000106,alzheimer,Gantenerumab,Phase II,60,85,Mumbai,Kokilaben Hospital
+NCT20000107,alzheimer,Solanezumab,Phase III,60,85,Delhi,AIIMS Delhi
+NCT20000108,alzheimer,TauRx,Phase II,55,80,Bangalore,NIMHANS
+NCT20000109,alzheimer,Bapineuzumab,Phase II,60,85,Pune,Deenanath Hospital
+NCT20000110,alzheimer,Donanemab,Phase III,60,85,Hyderabad,Apollo Hospital
+NCT20000111,arthritis,Tofacitinib,Phase III,30,70,Mumbai,KEM Hospital
+NCT20000112,arthritis,Baricitinib,Phase III,35,70,Delhi,AIIMS Delhi
+NCT20000113,arthritis,Upadacitinib,Phase II,30,70,Bangalore,Manipal Hospital
+NCT20000114,arthritis,Abatacept,Phase III,35,75,Pune,Jehangir Hospital
+NCT20000115,arthritis,Tocilizumab,Phase II,35,75,Hyderabad,Apollo Hospital
+NCT20000116,obesity,Setmelanotide,Phase II,25,60,Mumbai,Apollo Hospital
+NCT20000117,obesity,Phentermine XR,Phase III,25,60,Delhi,Fortis Hospital
+NCT20000118,obesity,Naltrexone Bupropion,Phase III,30,65,Bangalore,Manipal Hospital
+NCT20000119,obesity,Orlistat Plus,Phase II,25,60,Pune,Ruby Hall Clinic
+NCT20000120,obesity,GLP1 Dual Agonist,Phase II,30,65,Hyderabad,Apollo Hospital
+NCT20000121,depression,Vortioxetine,Phase III,18,65,Mumbai,KEM Hospital
+NCT20000122,depression,Mirtazapine XR,Phase III,18,65,Delhi,AIIMS Delhi
+NCT20000123,depression,Trazodone XR,Phase II,20,65,Bangalore,Manipal Hospital
+NCT20000124,depression,Agomelatine,Phase III,18,65,Pune,Sahyadri Hospital
+NCT20000125,depression,Desvenlafaxine,Phase III,25,65,Hyderabad,Apollo Hospital
+NCT20000126,migraine,Atogepant,Phase III,18,60,Mumbai,KEM Hospital
+NCT20000127,migraine,Rimegepant,Phase III,18,60,Delhi,Fortis Hospital
+NCT20000128,migraine,Ubrogepant,Phase II,20,60,Bangalore,Manipal Hospital
+NCT20000129,migraine,Zavegepant,Phase II,18,60,Pune,Ruby Hall Clinic
+NCT20000130,migraine,Propranolol XR,Phase III,18,60,Hyderabad,Apollo Hospital
+NCT20000131,covid19,Favipiravir XR,Phase II,18,65,Mumbai,Tata Memorial Hospital
+NCT20000132,covid19,Ivermectin XR,Phase II,18,65,Delhi,AIIMS Delhi
+NCT20000133,covid19,Interferon Beta,Phase III,18,70,Bangalore,Manipal Hospital
+NCT20000134,covid19,Nitazoxanide,Phase II,18,65,Pune,Deenanath Hospital
+NCT20000135,covid19,Tocilizumab COVID,Phase III,18,70,Hyderabad,Apollo Hospital
+NCT20000136,parkinson,Safinamide,Phase III,50,80,Mumbai,KEM Hospital
+NCT20000137,parkinson,Rotigotine Patch,Phase III,50,80,Delhi,AIIMS Delhi
+NCT20000138,parkinson,Opicapone,Phase II,50,80,Bangalore,Manipal Hospital
+NCT20000139,parkinson,Istradefylline,Phase II,55,85,Pune,Deenanath Hospital
+NCT20000140,parkinson,Tolcapone XR,Phase III,55,85,Hyderabad,Apollo Hospital
+NCT20000141,epilepsy,Brivaracetam,Phase III,18,60,Mumbai,KEM Hospital
+NCT20000142,epilepsy,Perampanel,Phase III,18,60,Delhi,AIIMS Delhi
+NCT20000143,epilepsy,Zonisamide,Phase II,18,60,Bangalore,Manipal Hospital
+NCT20000144,epilepsy,Lacosamide,Phase III,18,60,Pune,Ruby Hall Clinic
+NCT20000145,epilepsy,Ethosuximide XR,Phase II,18,60,Hyderabad,Apollo Hospital
+NCT20000146,heart failure,Metoprolol XR,Phase III,40,80,Mumbai,Kokilaben Hospital
+NCT20000147,heart failure,Bisoprolol,Phase III,40,75,Delhi,AIIMS Delhi
+NCT20000148,heart failure,Eplerenone,Phase II,45,80,Bangalore,Manipal Hospital
+NCT20000149,heart failure,Digoxin XR,Phase II,45,80,Pune,Ruby Hall Clinic
+NCT20000150,heart failure,Vericiguat,Phase III,50,80,Hyderabad,Apollo Hospital
